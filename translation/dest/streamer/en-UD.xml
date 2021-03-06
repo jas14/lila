@@ -15,7 +15,7 @@
   <string name="downloadKit">Download streamer kit</string>
   <string name="xIsStreaming">%s is streaming</string>
   <string name="rules">Streaming rules</string>
-  <string name="rule1">Include the keyword \"lichess.org\" in your stream title when you stream on Lichess.</string>
+  <string name="rule1">Include the keyword \"lichess.org\" in your stream title and use the category \"Chess\" when you stream on Lichess.</string>
   <string name="rule2">Remove the keyword when you stream non-Lichess stuff.</string>
   <string name="rule3">Lichess will detect your stream automatically and enable the following perks:</string>
   <string name="perks">Benefits of streaming with the keyword</string>
@@ -29,8 +29,8 @@
   <string name="whenReady">When you are ready to be listed as a Lichess streamer, %s</string>
   <string name="requestReview">request a moderator review</string>
   <string name="anotherLanguage">If your stream is in a language other than English, include the correct language tag (%s), enclosed in square brackets, at the start of your stream title.
-As examples, include \"[RU]\" for Russian, \"[TR]\" for Turkish, \"[FR]\" for French, etc.
-Put it in the stream title in the Twitch or YouTube page, not in the Lichess stream settings.
+As examples, you can include \"[RU]\" for Russian, \"[TR]\" for Turkish, \"[FR]\" for French, etc.
+Put this in the stream title in the Twitch or YouTube page, not in the Lichess stream settings.
 If your stream is in English, there is no need to include a language tag.</string>
   <string name="twitchUsername">Your Twitch username or URL</string>
   <string name="optionalOrEmpty">Optional. Leave empty if none</string>
